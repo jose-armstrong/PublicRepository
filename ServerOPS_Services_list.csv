@@ -1,0 +1,50 @@
+﻿ServerName,Service,Service Name
+Server1,DHCP Server,DHCP Server
+Server1,Server,Server (File)
+Server1,Print Spooler,Print Server
+Server1,Remote Desktop Services,TermService
+Server1,Workstation,LanManWorkstation
+Server1,SMS Agent Host,CCmExec
+Server1,McAfee Agent Service,masvc
+Server1,McAfee Service Controller,mfemms
+Server1,Microsoft Monitoring Agent,HealthService
+Server1,Server,Server (File)
+Server1,Print Spooler,Print Server
+Server1,Remote Desktop Services,TermService
+Server1,Workstation,LanManWorkstation
+Server1,SMS Agent Host,CCmExec
+Server1,McAfee Agent Service,masvc
+Server1,McAfee Service Controller,mfemms
+Server1,Microsoft Monitoring Agent,HealthService
+Server1,DHCP Server,DHCP Server
+Server1,Server,Server (File)
+Server1,Print Spooler,Print Server
+Server1,Remote Desktop Services,TermService
+Server1,Workstation,LanManWorkstation
+Server1,SMS Agent Host,CCmExec
+Server1,McAfee Agent Service,masvc
+Server1,McAfee Service Controller,mfemms
+Server1,Microsoft Monitoring Agent,HealthService
+Server2,Server,Server (File)
+Server2,Remote Desktop Services,TermService
+Server2,Workstation,LanManWorkstation
+Server2,SMS Agent Host,CCmExec
+Server2,McAfee Agent Service,masvc
+Server2,McAfee Service Controller,mfemms
+Server2,Microsoft Monitoring Agent,HealthService
+Server3,DHCP Server,DHCP Server
+Server3,Server,Server (File)
+Server3,Print Spooler,Print Server
+Server3,Remote Desktop Services,TermService
+Server3,Workstation,LanManWorkstation
+Server3,SMS Agent Host,CCmExec
+Server3,McAfee Agent Service,masvc
+Server3,McAfee Service Controller,mfemms
+Server3,Microsoft Monitoring Agent,HealthService
+Server3,Server,Server (File)
+Server3,Remote Desktop Services,TermService
+Server3,Workstation,LanManWorkstation
+Server3,SMS Agent Host,CCmExec
+Server3,McAfee Agent Service,masvc
+Server3,McAfee Service Controller,mfemms
+Server3,Microsoft Monitoring Agent,HealthService
